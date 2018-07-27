@@ -21,3 +21,6 @@
 
 - [Alfred](https://www.alfredapp.com/)
 
+# Download
+- [Downloader](https://github.com/high-speed-downloader/high-speed-downloader)
+
