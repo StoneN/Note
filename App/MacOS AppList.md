@@ -4,7 +4,7 @@
 - [Typora](https://typora.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [MacVim](http://macvim-dev.github.io/macvim/)
-
+- [Atom](https://atom.io/)
 
 # Image Processing
 
@@ -24,3 +24,5 @@
 # Download
 - [Downloader](https://github.com/high-speed-downloader/high-speed-downloader)
 
+# Develop
+- [Dash](https://kapeli.com/dash)
