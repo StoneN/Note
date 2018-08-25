@@ -6,4 +6,5 @@
 - [The Best VPN](https://www.vpndada.com/)
 - [JetBrains开发工具学生授权](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F)
 - [Read the Docs](https://readthedocs.org/)  =>  [介绍](https://avnpc.com/pages/writing-best-documentation-by-sphinx-github-readthedocs)
-- [破解](https://www.waitsun.com/)
+- [Waitsun 破解](https://www.waitsun.com/)
+- [xClient 破解](http://xclient.info)

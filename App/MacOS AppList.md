@@ -23,6 +23,7 @@
 
 # Download
 - [Downloader](https://github.com/high-speed-downloader/high-speed-downloader)
+- [Folx Pro](https://mac.eltima.com/download-manager.html#features)
 
 # Develop
 - [Dash](https://kapeli.com/dash)
