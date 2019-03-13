@@ -7,6 +7,11 @@
 - [MacVim](http://macvim-dev.github.io/macvim/)
 - [Atom](https://atom.io/)
 
+# Think
+
+- [MindNode](https://mindnode.com/)
+- [MonoDraw](https://monodraw.helftone.com/)
+
 # Image Processing
 
 - [圈点](https://www.yinxiang.com/skitch/)
