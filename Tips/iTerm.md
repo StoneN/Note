@@ -14,6 +14,7 @@
 - `git commit --amend` 将修改添加到上次提交
 - `git checkout -- <file>` 撤销掉还未 `git add` 的修改
 - `git branch <name>` 创建新分支 
+- `git branch <name> <被删分支的最后一次commit的id>` 恢复被删除的分支 
 - `git checkout <branch name>` 切换分支
 - `git checkout -b <branch name>` 创建并切换到新分支
 - `git merge <branch name>` 将制定分支合并到当前分支 **[当出现冲突时，需要修改冲突文件，并将修改 `add`+`commit`]**
